@@ -1,7 +1,7 @@
 # Resume
 
-<img width="765" alt="Page1" src="https://github.com/SergioBoySV/Resume/assets/85202224/aa96f704-6ba8-4240-9554-8bd46b0e52b0">
-<img width="765" alt="Page2" src="https://github.com/SergioBoySV/Resume/assets/85202224/afa21549-6ef6-4bd1-9210-271702e5c02a">
+<img width="765" alt="Page1" src="https://github.com/user-attachments/assets/63bf681f-0c44-4ba7-ac55-a3bd84f917fa">
+<img width="765" alt="Page2" src="https://github.com/user-attachments/assets/7f66048c-91e2-4cc6-aa85-9628f95f5c9e">
 
 
 #### Download
